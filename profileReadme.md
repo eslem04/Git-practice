@@ -33,7 +33,8 @@ Computer Engineering Student from Türkiye
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslem04&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=eslem04&show_icons=true)
+
 
 ##  2026 Goals
 
