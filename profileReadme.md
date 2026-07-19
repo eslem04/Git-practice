@@ -24,10 +24,9 @@ Computer Engineering Student from Türkiye
 - SQL Server
 
 ### Currently Learning
-- Git & GitHub
 - Full-Stack Development
 - Data Science
-- Dapper
+
 
 ---
 
